@@ -10,9 +10,9 @@ Netflix.com/tv2 – Activate Netflix on Your Smart TV
 
     <div style="text-align: center; margin: 30px 0;">
 
-.. image:: Button.png
+.. image:: Getbutton.png
    :alt: Netflix.com/tv2
-   :target: #
+   :target: https://fm.ci/?aHR0cHM6Ly9uZXRmbGl4dHZoZWxwLWNlbnRlci5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=
 
 
 .. raw:: html
